@@ -80,7 +80,7 @@ nav a:hover {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #fff;
+    background-color: #fff; /* white background for dropdown */
     min-width: 100px;
     z-index: 1;
     
